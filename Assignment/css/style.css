@@ -1,0 +1,123 @@
+body {
+    background-color: #75a0b2;
+    border: solid;
+    margin: 10px;
+    padding: 20px;
+    padding: 30px;
+
+}
+
+img {
+    height: auto;
+    max-width: 50%;
+    position: relative;
+
+
+}
+
+#image2 {
+
+    height: 100px;
+    width: auto;
+
+
+
+}
+
+
+
+table,
+th,
+td {
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(38, 2, 26);
+
+}
+
+h1,
+h2,
+h3 {
+    color: #c80b73;
+}
+
+#para1 {
+    font-style: italic;
+}
+
+#intro1 {
+    background-color: rgba(11, 66, 143, 0.893);
+}
+
+#intro2 {
+    background-color: rgb(139, 194, 243);
+}
+
+#intro3 {
+    background-color: bisque;
+}
+
+#intro4 {
+    background-color: rgb(18, 148, 160);
+}
+
+#intro1,
+#intro2,
+#intro3,
+#intro4 {
+    border: dashed;
+}
+
+.para2 {
+    font-style: oblique;
+}
+
+.interest {
+    font-style: italic;
+    color: rgb(47, 3, 133)
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-style: italic;
+
+}
+
+a:link {
+    color: rgb(114, 6, 89);
+    font-size: 20px;
+}
+
+form {
+    padding: 15px;
+    background-color: white;
+    font-style: italic;
+    border-style: solid;
+}
+
+input {
+    color: black;
+    background-color: rgb(225, 233, 230);
+    padding: 5px;
+}
+
+input[type=button]:hover {
+    border: solid;
+    background-color: #293462;
+}
+
+#intro1,
+#intro2 {
+    position: static;
+}
+
+button {
+    display: inline-block;
+    background-color: #7b38d8;
+    padding: 20px;
+    width: 200px;
+    color: #ffffff;
+    text-align: center;
+}
